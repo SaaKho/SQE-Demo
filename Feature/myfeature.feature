@@ -18,4 +18,4 @@ Scenario Outline: Admin is able to create a new User
 
  Examples:
  | adminUser | Password | first_Name | last_Name | email |
- | saadankhokhar21@gmail.com | Saadan@123 | Saadan | Khokhar | saadankhokhar21@gmail.com |
+ | saadankhokhar21@gmail.com | Saadan@123 | Saadan | Khokhar | sherry@gmail.com |
